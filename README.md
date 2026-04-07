@@ -8,7 +8,9 @@ This Python program demonstrates the use of try, except, and finally blocks in e
 try → contains code that may cause an error
 except → handles the error (if any)
 finally → always executes, whether an error occurs or not
+
 ⚙️ Source Code
+
 try:
     print("Try block running")
     x = 10 / 2
