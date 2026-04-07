@@ -66,3 +66,5 @@ After understanding this program, you will learn:
 How try, except, and finally work together
 Why finally is useful (cleanup, closing files, etc.)
 How to make programs more reliable
+
+<img width="658" height="719" alt="image" src="https://github.com/user-attachments/assets/0034e940-3f51-40e5-a880-76b7585353af" />
